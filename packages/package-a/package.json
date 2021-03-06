@@ -6,7 +6,7 @@
     "@material-ui/core": "next",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "snowpack": "next"
+    "snowpack": "latest"
   },
   "devDependencies": {
     "@babel/cli": "^7.13.0",

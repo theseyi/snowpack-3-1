@@ -2065,13 +2065,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cli-spinners@npm:^2.5.0":
-  version: 2.5.0
-  resolution: "cli-spinners@npm:2.5.0"
-  checksum: a275c3588179de0a07579742e1fedb508caa6840516761dac1f8544886d4aa025fc2d536323ac9c325624349203010e149ca8b0028be239fc45ed3a1c1252677
-  languageName: node
-  linkType: hard
-
 "clsx@npm:^1.0.4":
   version: 1.1.1
   resolution: "clsx@npm:1.1.1"
@@ -3665,7 +3658,7 @@ __metadata:
     "@snowpack/plugin-react-refresh": ^2.4.0
     react: ^17.0.1
     react-dom: ^17.0.1
-    snowpack: next
+    snowpack: latest
   languageName: unknown
   linkType: soft
 
@@ -4235,11 +4228,10 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"snowpack@npm:next":
-  version: 3.1.0-pre.11
-  resolution: "snowpack@npm:3.1.0-pre.11"
+"snowpack@npm:latest":
+  version: 3.0.13
+  resolution: "snowpack@npm:3.0.13"
   dependencies:
-    cli-spinners: ^2.5.0
     default-browser-id: ^2.0.0
     esbuild: ^0.8.7
     fsevents: ^2.2.0
@@ -4252,7 +4244,7 @@ __metadata:
   bin:
     snowpack: index.bin.js
     sp: index.bin.js
-  checksum: 8b78debfc0f09b48fecc138bec532abfc4ad40bd84b595aa987a19be66d4391246709c3cbf68781ee5f6b6b224c86ee8b0ac4a547aa3405fda94718079cb75fa
+  checksum: 5ed74e2fb07727096aa3d61f52079d20c3d2926ac3a34c6df548abd91ee576b49c253ea2381ae0b293b5d417ceb2cea31fec66f70bbd893862760f3b6c61b658
   languageName: node
   linkType: hard
 
